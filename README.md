@@ -5,9 +5,9 @@
 Windows:          pip install ugreshaper
 Ubuntu18:         pip3 install ugreshaper
 
-from ugreshaper import reshaper
-resh = ugreshaper()
-reshaped_text = reshaper.reshape( asli text )
+from ugreshaper import ugreshaper
+re = ugreshaper()
+reshaped_text = re.reshape( text )
 ```
 #### Qachilap bolup:
 ```python
